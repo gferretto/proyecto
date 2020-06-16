@@ -65,3 +65,5 @@ int main()
     cargarPreguntas();
     return 0;
 }
+
+//santis me amo
