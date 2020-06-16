@@ -63,6 +63,5 @@ int main()
     tipoPartida * partida = crearPartida();
 
     cargarPreguntas();
-
     return 0;
 }
