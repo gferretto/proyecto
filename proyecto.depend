@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575511296 source:c:\users\gianf\desktop\proyecto\list.c
+	"list.h"
+	<stdlib.h>
+	<assert.h>
+
+1575511296 c:\users\gianf\desktop\proyecto\list.h
+
